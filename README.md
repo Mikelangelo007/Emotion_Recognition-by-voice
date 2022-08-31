@@ -19,3 +19,5 @@ Step 8: Go to emotion-recognition-using-speech this file in your terminal
 Step 9: Run This code: Python train.py
 
 Step 10: Run this code: Python test.py "[Path of the voice message that is needed to check emotion]" 
+
+Tip: In order to check validation files are recommended 
