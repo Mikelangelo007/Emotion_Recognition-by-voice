@@ -2,7 +2,7 @@
 
 Step 1: download : https://github.com/x4nth055/emotion-recognition-using-speech
 
-Step 2: download stip repo 
+Step 2: download this repo 
 
 Step 3: Delete test.py file from emotion-recognition-using-speech
 
