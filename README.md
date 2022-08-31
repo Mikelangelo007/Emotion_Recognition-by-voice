@@ -1,8 +1,6 @@
 # Emotion_Recognition-by-voice
 
-Step 1:
-
-download : https://github.com/x4nth055/emotion-recognition-using-speech
+Step 1: download : https://github.com/x4nth055/emotion-recognition-using-speech
 
 Step 2: download stip repo 
 
