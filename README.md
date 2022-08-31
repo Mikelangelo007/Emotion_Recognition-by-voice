@@ -12,6 +12,8 @@ Step 5: create conda environment
 
 Step 6: pip3 install -r requirements.txt
 
+Step 7: Download emodb: http://emodb.bilderbar.info/docu/ , RAVDESS:https://zenodo.org/record/1188976 , TESS: https://tspace.library.utoronto.ca/handle/1807/24487
+
 Step 7: Go to emotion-recognition-using-speech this file in your terminal
 
 Step 8: Run This code: Python train.py
